@@ -1,6 +1,5 @@
 - almond milk
 - bacon
 - grapes
-- chicken
 - eggs
 - croissant
